@@ -1,0 +1,4 @@
+<?php
+$nombreapp = "Sistema Administrativo";
+
+ ?>
