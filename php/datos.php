@@ -1,4 +1,4 @@
 <?php
-$nombreapp = "Sistema Administrativo";
+$nombreapp = "Enli";
 
  ?>
