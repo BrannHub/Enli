@@ -16,6 +16,7 @@
 <script src="vendor/js/tables.min.js"></script>
 <script src="vendor/js/validate.min.js"></script>
 <script src="vendor/js/wizard.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/perfect-scrollbar@1.4.0/dist/perfect-scrollbar.common.min.js"></script>
 <script src="vendor/js/button.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
 <script>
