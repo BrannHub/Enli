@@ -59,7 +59,7 @@
    </div>
    <div class="main-panel">
      <!-- Navbar -->
-     <nav class="navbar navbar-expand-lg bg-dark navbar-absolute fixed-top ">
+     <nav class="navbar navbar-expand-lg bg-warning navbar-absolute fixed-top ">
        <div class="container-fluid">
          <div class="navbar-wrapper">
            <div class="navbar-minimize">

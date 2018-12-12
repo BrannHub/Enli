@@ -3,16 +3,18 @@
   $active_inicio = "active";
  ?>
 <?php include('../php/datos.php'); ?>
-<!DOCTYPE html>
 <html>
 <head>
-  <?php include('php/head.php'); ?>
   <title><?php echo $nombreapp; ?> | <?php echo $pagina; ?></title>
+  <?php include('php/head.php'); ?>
 </head>
-    <?php include('php/nav.php'); ?>
 <body>
-
-
+<?php include('php/nav.php'); ?>
+  <div class="content">
+     <div class="container-fluid">
+       <h1>Hola</h1>
+     </div>
+  </div>
 <?php include('php/footer.php'); ?>
 </body>
 </html>
